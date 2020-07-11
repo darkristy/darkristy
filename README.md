@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![The Void](https://66.media.tumblr.com/62616d329f389e07a6201157a2f8d6c0/tumblr_mru1xjMZ9d1sofkn4o1_r2_500.gifv)
 <!--
 **darkristy/darkristy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
