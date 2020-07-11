@@ -1,4 +1,4 @@
-![hello](https://66.media.tumblr.com/d8ce6a25f24cbfeea5379e261e3481e5/tumblr_p0cyk2pCob1s4fz4bo1_500.gifv)
+
 <!--
 **darkristy/darkristy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
