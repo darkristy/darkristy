@@ -5,6 +5,21 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MDX Styling Post](
+            https://bornwhitfield-git-develop.darkristy.vercel.app/posts/mdx-styling
+          )
+- [5 Signs Your Website is Ready for a Redesign](
+            https://bornwhitfield-git-develop.darkristy.vercel.app/posts/5-signs-your-website-is-ready-for-a-redesign
+          )
+- [4 Tips For Good UI/UX Flow](
+            https://bornwhitfield-git-develop.darkristy.vercel.app/posts/4-tips-for-good-ui-ux-flow
+          )
+- [6 Web Design Trends in 2019](
+            https://bornwhitfield-git-develop.darkristy.vercel.app/posts/6-web-design-trends-in-2019
+          )
+- [How to Use Inspiration in the Creative Process](
+            https://bornwhitfield-git-develop.darkristy.vercel.app/posts/how-to-use-inspiration-in-the-creative-process
+          )
 <!-- BLOG-POST-LIST:END -->
 
 <!--
