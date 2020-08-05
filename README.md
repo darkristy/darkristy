@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-# Blog posts
+[![Darkristy's github stats](https://github-readme-stats.vercel.app/api?username=darkristy)](https://github.com/anuraghazra/github-readme-stats)
+
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
