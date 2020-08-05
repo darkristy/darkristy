@@ -1,7 +1,5 @@
 # Hi there 👋
 
-[![Darkristy's github stats](https://github-readme-stats.vercel.app/api?username=darkristy)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -11,6 +9,8 @@
 - [6 Web Design Trends in 2019](https://bornwhitfield-git-develop.darkristy.vercel.app/posts/6-web-design-trends-in-2019)
 - [How to Use Inspiration in the Creative Process](https://bornwhitfield-git-develop.darkristy.vercel.app/posts/how-to-use-inspiration-in-the-creative-process)
 <!-- BLOG-POST-LIST:END -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **darkristy/darkristy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
