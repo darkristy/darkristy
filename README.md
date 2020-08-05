@@ -2,7 +2,6 @@
 
 <!--### 🔭 What I’m currently working on: -->
 
-<table><tr><td valign="top" width="33%">
   
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +24,6 @@
 
 <!--**More on [bornwhitfield.space](https://bornwhitfield.space/)** -->
 
-</td><td valign="top" width="20%">
   
 ## 📫 Where to Find Me
 
@@ -33,7 +31,7 @@
 - **[Dribbble](https://dribbble.com/bornwhitfield)**
 <!-- - **[Behance](https://bornwhitfield.space/)** -->
 
-</td>
+
 <!--
 **darkristy/darkristy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
