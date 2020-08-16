@@ -10,6 +10,11 @@
 - [How to Use Inspiration in the Creative Process](https://bornwhitfield-git-develop.darkristy.vercel.app/posts/how-to-use-inspiration-in-the-creative-process)
 <!-- BLOG-POST-LIST:END -->
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
