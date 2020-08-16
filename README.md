@@ -2,7 +2,7 @@
 
 <!--### 🔭 What I’m currently working on: -->
 
-📄 Recent Blog Posts
+### 📄 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -25,7 +25,7 @@
 
 <!--**More on [bornwhitfield.space](https://bornwhitfield.space/)** -->
 
-## 📫 Where to Find Me
+### 📫 Where to Find Me
 
 - **[Instagram](https://www.instagram.com/bornwhitfield/)**
 - **[Dribbble](https://dribbble.com/bornwhitfield)**
