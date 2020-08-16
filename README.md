@@ -1,8 +1,8 @@
 # Hi there 👋
 
 <!--### 🔭 What I’m currently working on: -->
-<details>
-  <summary> 📄 Recent Blog Posts</summary>
+
+📄 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -12,7 +12,6 @@
 - [6 Web Design Trends in 2019](https://bornwhitfield-git-develop.darkristy.vercel.app/posts/6-web-design-trends-in-2019)
 - [How to Use Inspiration in the Creative Process](https://bornwhitfield-git-develop.darkristy.vercel.app/posts/how-to-use-inspiration-in-the-creative-process)
   <!-- BLOG-POST-LIST:END -->
-  </details>
 
 <details>
   <summary>⚡️ Recent Github Activity</summary>
