@@ -16,10 +16,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#1](https://github.com//darkristy/bornwhitfield-api/pull/1) in [darkristy/bornwhitfield-api](https://github.com//darkristy/bornwhitfield-api)
 2. 🎉 Merged PR [#1](https://github.com//darkristy/og-serverless/pull/1) in [darkristy/og-serverless](https://github.com//darkristy/og-serverless)
 <!--END_SECTION:activity-->
-<!--START_SECTION:activity-->
 
 <!--**More on [bornwhitfield.space](https://bornwhitfield.space/)** -->
 
