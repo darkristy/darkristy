@@ -16,8 +16,8 @@
   <summary>⚡️ Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com//darkristy/bornwhitfield-nest-api/pull/2) in [darkristy/bornwhitfield-nest-api](https://github.com//darkristy/bornwhitfield-nest-api)
-2. 💪 Opened PR [#2](https://github.com//darkristy/bornwhitfield-nest-api/pull/2) in [darkristy/bornwhitfield-nest-api](https://github.com//darkristy/bornwhitfield-nest-api)
+1. 🎉 Merged PR [#3](https://github.com//darkristy/bornwhitfield-nest-api/pull/3) in [darkristy/bornwhitfield-nest-api](https://github.com//darkristy/bornwhitfield-nest-api)
+2. 💪 Opened PR [#3](https://github.com//darkristy/bornwhitfield-nest-api/pull/3) in [darkristy/bornwhitfield-nest-api](https://github.com//darkristy/bornwhitfield-nest-api)
 <!--END_SECTION:activity-->
 
 </details>
