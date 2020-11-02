@@ -16,8 +16,8 @@
   <summary>⚡️ Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com/darkristy/inventory-app/issues/2) in [darkristy/inventory-app](https://github.com/darkristy/inventory-app)
-2. 🎉 Merged PR [#3](https://github.com/darkristy/bornwhitfield-nest-api/pull/3) in [darkristy/bornwhitfield-nest-api](https://github.com/darkristy/bornwhitfield-nest-api)
+1. 💪 Opened PR [#8](https://github.com/darkristy/bornwhitfield/pull/8) in [darkristy/bornwhitfield](https://github.com/darkristy/bornwhitfield)
+2. ❗️ Opened issue [#2](https://github.com/darkristy/inventory-app/issues/2) in [darkristy/inventory-app](https://github.com/darkristy/inventory-app)
 <!--END_SECTION:activity-->
 
 </details>
