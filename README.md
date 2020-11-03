@@ -16,8 +16,8 @@
   <summary>⚡️ Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/darkristy/bornwhitfield/pull/9) in [darkristy/bornwhitfield](https://github.com/darkristy/bornwhitfield)
-2. 💪 Opened PR [#9](https://github.com/darkristy/bornwhitfield/pull/9) in [darkristy/bornwhitfield](https://github.com/darkristy/bornwhitfield)
+1. 🎉 Merged PR [#5](https://github.com/darkristy/bornwhitfield/pull/5) in [darkristy/bornwhitfield](https://github.com/darkristy/bornwhitfield)
+2. 🎉 Merged PR [#11](https://github.com/darkristy/bornwhitfield/pull/11) in [darkristy/bornwhitfield](https://github.com/darkristy/bornwhitfield)
 <!--END_SECTION:activity-->
 
 </details>
