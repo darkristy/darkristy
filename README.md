@@ -4,6 +4,8 @@
 
 <!--**More on [bornwhitfield.space](https://bornwhitfield.space/)** -->
 
+![Metrics](https://github.com/darkristy/darkristy/blob/master/github-metrics.svg)
+
 ### 📫 Where to Find Me
 
 - **[Instagram](https://www.instagram.com/bornwhitfield/)**
