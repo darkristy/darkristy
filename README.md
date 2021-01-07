@@ -2,9 +2,21 @@
 
 <!--### 🔭 What I’m currently working on: -->
 
-<!--**More on [bornwhitfield.space](https://bornwhitfield.space/)** -->
+### 📄 Recent Blog Posts
 
-![Metrics](https://github.com/darkristy/darkristy/blob/master/github-metrics.svg)
+<!-- BLOG-POST-LIST:START -->
+
+  <!-- BLOG-POST-LIST:END -->
+
+<details>
+  <summary>⚡️ Recent Github Activity</summary>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<!--**More on [bornwhitfield.space](https://bornwhitfield.space/)** -->
 
 ### 📫 Where to Find Me
 
