@@ -15,7 +15,7 @@ jobs:
           plugin_posts: yes
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_posts_source: "https://bornwhitfield-git-develop.darkristy.vercel.app/rss"
+          plugin_posts_source: https://bornwhitfield-git-develop.darkristy.vercel.app/rss
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
